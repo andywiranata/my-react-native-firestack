@@ -1,3 +1,5 @@
+Cloning from https://github.com/fullstackreact/react-native-firestack
+
 ## Firestack
 
 Firestack makes using the latest [Firebase](https://firebase.google.com/) straight-forward.
